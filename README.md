@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: 2316291617@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
+- 😄 Read more about my juejin: [here](https://juejin.cn/user/2447959201164967/posts)
 
 ![](https://github-readme-stats.vercel.app/api?username=Amnesia18&show_icons=true&theme=transparent)
 
